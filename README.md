@@ -2,7 +2,9 @@
 Converter of numbers
 
 Build:
+
 `git clone https://github.com/vsafonkin/nconv.git`
+
 `cd nconv && mkdir ./bin && make`
 
 Use converter:
