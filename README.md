@@ -1,7 +1,11 @@
 ## nconv
-Converter of numbers
+Converter of numbers.
 
-Build:
+Install:
+
+> `go install github.com/vsafonkin/nconv@latest`
+
+or build:
 
 > `git clone https://github.com/vsafonkin/nconv.git`
 
