@@ -13,6 +13,7 @@ or build:
 
 Using:
 
-- Execute binary file `nconv` in bin directory.
-- Enter some number as integer, hex, binary or octal.
+- Execute binary file `nconv` in bin directory: `nconv <number>` or interactive mode: `nconv -i`
+- Enter some number as integer, hex, binary or octal (interactive mode).
 - See result as integer, hex and binary number.
+
